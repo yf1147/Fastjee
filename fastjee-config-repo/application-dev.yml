@@ -21,7 +21,7 @@ persistence:
    # jdbc配置 (默认是每个微服务一个数据库,子模块请按需覆盖)
     jdbc:
       driver: com.mysql.jdbc.Driver
-      url: jdbc:mysql://192.168.1.202:3306:3306/fastjee?useUnicode=true&characterEncoding=utf8&useSSL=false
+      url: jdbc:mysql://192.168.1.202:3306/fastjee?useUnicode=true&characterEncoding=utf8&useSSL=false
       username: shqz
       password: shqz8866.
     plusConfig:
